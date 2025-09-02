@@ -26,7 +26,7 @@ Player harus menebak angka rahasia yang digenerate secara random sesuai mode per
    git clone https://github.com/allkinn/Tebak-Angka.git
 3. Jalankan program
    ```
-   python tebak_angka.py
+   python main.py
 
 ---
 
