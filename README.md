@@ -43,6 +43,7 @@ Player harus menebak angka rahasia yang digenerate secara random sesuai mode per
 ---
 
 Contoh output:
+```
 =============== Game Tebak Angka ===============
 Mode Game:
     1. Easy (1 - 20)
@@ -65,7 +66,7 @@ Anda Menebak Angka 15 dalam 2 Percobaan
 ------------------------------------------------
 Apakah anda ingin bermain lagi? (y/n): n
 Sampai Jumpa Lagi
-
+```
 ---
 
 ## Teknologi
