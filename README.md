@@ -23,7 +23,7 @@ Player harus menebak angka rahasia yang digenerate secara random sesuai mode per
    python --version
 2. clone repository atau download file .py
    ```
-   git clone https://github.com/username/repo-tebak-angka.git
+   git clone https://github.com/allkinn/Tebak-Angka.git
 3. Jalankan program
    ```
    python tebak_angka.py
